@@ -1,0 +1,6 @@
+name: collections-to-sidebar
+version: 0.1.0
+description: Takes all your collections and makes them top level nav items.
+url: https://github.com/benfurfie/statamic-collection-to-nav
+developer: Ben Furfie
+developer_url: https://www.benfurfie.co.uk
