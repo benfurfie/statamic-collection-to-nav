@@ -1,5 +1,14 @@
 {
-    "name": "ben-furfie/collectionstosidebar",
-    "require": {
-    }
+    "name": "benfurfie/collections-to-sidebar",
+    "description": "Bring your Statamic collection to the top level menu. No more hiding in the collections submenu.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ben Furfie",
+            "email": "hello@benfurfie.co.uk"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
 }
